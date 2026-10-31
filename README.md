@@ -1,3 +1,17 @@
+# 💫 Hi 👋, I'm Siddh Agrawal
+
+**An aspiring AI/ML Engineer || Full Stack Developer || AI Engineer from India 🇮🇳**
+
+I'm passionate about building intelligent applications, experimenting with AI, and turning ideas into real-world products.
+
+- 🔭 **I'm currently working on:** AI-powered applications, intelligent automation, and full-stack projects.
+- 🌱 **I'm currently learning:** Advanced Machine Learning, Deep Learning, LLMs, DSA, and AI Engineering.
+- 👯 **I'm looking to collaborate on:** AI/ML projects, Generative AI applications, and innovative open-source projects.
+- 🤔 **I'm looking for help with:** Building scalable AI systems, model optimization, and real-world AI deployment.
+- 💬 **Ask me about:** Python, Machine Learning, React, Next.js, Full Stack Development, and Generative AI.
+- 📫 **How to reach me:** Through [LinkedIn](YOUR_LINKEDIN_URL) or [GitHub](https://github.com/siddh-webd-ml).
+- 😄 **Pronouns:** He/Him
+- ⚡ **Fun fact:** I love turning crazy ideas into working projects. Building, breaking, learning, and repeating! 🚀
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/siddh-agrawal-54214b343) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:siddhagrawal92@gmail.com) 
